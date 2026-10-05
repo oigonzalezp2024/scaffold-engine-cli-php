@@ -1,0 +1,97 @@
+{
+  "receta": [
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Application/FileCopyAndReplaceFromArrayCaseUse.php",
+      "src/Template/Application/FileCopyAndReplaceFromArrayCaseUse.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Domain/Exception/FileNotFoundException.php",
+      "src/Template/Domain/Exception/FileNotFoundException.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Domain/Service/TextReplacerService.php",
+      "src/Template/Domain/Service/TextReplacerService.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Domain/FileManagerInterface.php",
+      "src/Template/Domain/FileManagerInterface.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Domain/ModuloInventario.php",
+      "src/Template/Domain/ModuloInventario.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Infrastructure/Adapter/DirectoryMapGenerator.php",
+      "src/Template/Infrastructure/Adapter/DirectoryMapGenerator.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Infrastructure/Adapter/LocalFileManager.php",
+      "src/Template/Infrastructure/Adapter/LocalFileManager.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Presentation/Console/AddModuleInventoryCommand.php",
+      "src/Template/Presentation/Console/AddModuleInventoryCommand.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Presentation/Controller/AddModuleInventoryController.php",
+      "src/Template/Presentation/Controller/AddModuleInventoryController.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "vendor/oigonzalezp2024/scaffold-engine-php/src/Presentation/DTO/InstruccionesDTO.php",
+      "src/Template/Presentation/DTO/InstruccionesDTO.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template"
+      }
+    ],
+    [
+      "bin/console.php",
+      "bin/console-new.php",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template",
+        "receta.json": "receta-new.json"
+      }
+    ],
+    [
+      "receta.json",
+      "receta-new.json",
+      {
+        "Oigonzalezp2024\\ScaffoldEngine": "App\\Template",
+        "template": "result"
+      }
+    ],
+    [
+      "receta-new.json",
+      "receta-new.json",
+      {
+        "Template": "Template2"
+      }
+    ]
+  ]
+}
